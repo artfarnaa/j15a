@@ -1,26 +1,6 @@
 {
     "exchange": "NASDAQ",
     "title": "NASDAQ Stock Exchange",
-    
-    "dadlst": 
-    [
-		"S3831SX","M1781KM","R7915QW","S7831SX","J7831SX","M2114JT"
-	],
-    
-    "momlst": 
-    [
-		"T110X51","S3119VF","Q4914ST","Q9200AW","F4571ST","S1521KM","F3119SA","B4114Z1","C3881SA","S1319XD"
-	],
-    
-    "aunlst": 
-    [
-		"K9195BF","H3945K5","J4203GT","M120SGA","F720BTU","D8714TA","G4210SM","L4830BM", "B8167PM","F3198EW","S9811AW","J6711VB"
-	],
-
-    "miklst": 
-    [
-		"DM01FS5","YA09T13"
-	],
 
     "wiki":
     [
